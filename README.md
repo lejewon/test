@@ -9,7 +9,7 @@
 
 
 ## 설치
-https://github.com/Jong-IN-Choi/test 에서 Card 폴더를 다운받은 뒤에, colab에서 다운로드 받은 Card폴더와 동일하게 만들어주어 실행시키면 된다
+https://github.com/lejewon/test 에서 Card 폴더를 다운받은 뒤에, colab에서 다운로드 받은 Card폴더와 동일하게 만들어주어 실행시키면 된다
 
 ### 요구사항
 python:
